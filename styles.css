@@ -1,0 +1,36 @@
+
+/* styles.css */  
+body {  
+    font-family: Arial, sans-serif;  
+    margin: 20px;  
+    background: #f4f4f4;  
+}  
+
+#resume {  
+    background: #f0a5a5;  
+    padding: 20px;  
+    border-radius: 5px;  
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
+}  
+
+h1, h2 {  
+    color: #0c0606;  
+}  
+
+p, ul {  
+    margin: 10px 0;  
+}  
+
+button {  
+    margin-top: 20px;  
+    padding: 10px 15px;  
+    background-color: #070c08;  
+    color: white;  
+    border: none;  
+    border-radius: 5px;  
+    cursor: pointer;  
+}  
+
+button:hover {  
+    background-color: #210a9e;  
+}
