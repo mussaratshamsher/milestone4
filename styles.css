@@ -7,7 +7,7 @@ body {
 }  
 
 #resume {  
-    background: #f0a5a5;  
+    background:linear-gradient(pink, rgb(117, 73, 73));  
     padding: 20px;  
     border-radius: 5px;  
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
@@ -32,5 +32,5 @@ button {
 }  
 
 button:hover {  
-    background-color: #210a9e;  
+    background-color: #9e0a72;  
 }
