@@ -7,7 +7,9 @@ body {
 }  
 
 #resume {  
-    background:linear-gradient(pink, rgb(117, 73, 73));  
+    width: 600px;
+    margin: 50px auto;
+    background:linear-gradient(pink, rgb(216, 71, 95));  
     padding: 20px;  
     border-radius: 5px;  
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
@@ -28,9 +30,10 @@ button {
     color: white;  
     border: none;  
     border-radius: 5px;  
-    cursor: pointer;  
+    cursor: pointer; 
+    position:absolute; 
 }  
 
 button:hover {  
-    background-color: #9e0a72;  
+    background-color: rgb(253, 110, 134);  
 }
