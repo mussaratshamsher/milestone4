@@ -9,14 +9,14 @@ body {
 #resume {  
     width: 600px;
     margin: 50px auto;
-    background:linear-gradient(pink, rgb(216, 71, 95));  
+    background:linear-gradient(rgb(241, 188, 197), rgb(187, 15, 44));  
     padding: 20px;  
     border-radius: 5px;  
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
 }  
 
 h1, h2 {  
-    color: #0c0606;  
+    color: #0a0808;  
 }  
 
 p, ul {  
@@ -35,5 +35,7 @@ button {
 }  
 
 button:hover {  
-    background-color: rgb(253, 110, 134);  
+    background-color: rgb(231, 69, 96);  
+    color: black;
+    
 }
